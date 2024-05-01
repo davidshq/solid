@@ -1,4 +1,4 @@
-/.cache
+/.parcel-cache
 /.devcontainer
 /dist
 /node_modules
